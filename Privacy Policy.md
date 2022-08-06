@@ -1,5 +1,5 @@
 Privacy Policy
-S.N.B Werapitiya built the Make Quiz and Share app as a Free app. This SERVICE is provided by S.N.B Werapitiya at no cost and is intended for use as is.
+S.N.B Werapitiya built the Make Quiz and Share app as an Ad Supported app. This SERVICE is provided by S.N.B Werapitiya at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -9,7 +9,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to email address. The information that I request will be retained on your device and is not collected by me in any way.
 
 The app does use third-party services that may collect information used to identify you.
 
@@ -55,7 +55,7 @@ Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-07-27
+This policy is effective as of 2022-08-06
 
 Contact Us
 
